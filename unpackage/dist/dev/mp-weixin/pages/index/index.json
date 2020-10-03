@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "寻艺",
+  "backgroundTextStyle": "light",
+  "titlePenetrate": "YES",
+  "titleImage": "static/logo.png",
+  "backgroundColor": "#3F536E",
+  "usingComponents": {}
+}
